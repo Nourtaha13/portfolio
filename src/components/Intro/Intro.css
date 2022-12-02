@@ -12,6 +12,7 @@
 	font-weight: bold;
 	line-height: 1.2;
 	letter-spacing: 2px;
+	color: var(--main-color);
 }
 .intro .content_left span{
 	line-height: 1.3;

@@ -6,7 +6,7 @@
 	font-size: 1.7rem;
 	font-weight: bold;
 	line-height: 2;
-	display: block;
+	display: inline-block;
 	position: relative;
 }
 .contact .title > h2::before{
