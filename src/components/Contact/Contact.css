@@ -66,9 +66,15 @@
 	line-height: 1.4;
 	margin-bottom: 1rem;
 }
-.contact .content_con .con_right > span i {
+.contact .content_con .con_right > a i {
 	margin-right: 1rem;
 	color: var(--main-color);
+}
+.contact .div-err > p{
+	width: calc(100% / 2);
+}
+.contact .msgErr{
+	color: #f00;
 }
 @media (max-width: 767px) {
 	.contact .content_con{

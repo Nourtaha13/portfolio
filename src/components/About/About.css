@@ -2,11 +2,14 @@
 	padding: 2rem;
 	background-color: var(--main-bg-color);
 }
-.about > h2.title{
-	font-size: 1.7rem;
-   font-weight: bold;
+.about > h2.title {
+
 	line-height: 2;
 	position: relative;
+}
+.about > h2.title span{
+	font-size: 1.7rem !important;
+   font-weight: bold !important;
 }
 .about > h2.title::before{
 	content: "";
